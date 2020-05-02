@@ -1,2 +1,2 @@
 #include <iostream>
-cout << "Fadi Hanna" << std::endl;
+std::cout << "Fadi Hanna" << std::endl;
